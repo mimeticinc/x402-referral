@@ -15,6 +15,9 @@ export * from "./offer-receipt";
 export * from "./payment-identifier";
 export { paymentIdentifierResourceServerExtension } from "./payment-identifier/resourceServer";
 
+// Referral-split extension
+export * from "./referral-split";
+
 // EIP-2612 Gas Sponsoring extension
 export * from "./eip2612-gas-sponsoring";
 
